@@ -1,5 +1,5 @@
 # Code Refactor Starter Code
-
+Link: [Deployed Horiseon Site](https://dalyd14.github.io/horiseon-code-refactor/)
 
 ## Purpose
 This repository was weekly assignment 01. Our task was to take already established html and css
@@ -7,30 +7,30 @@ landing page code and refactor them for accessibility purposes.
 
 
 ## Acceptance Criteria
-* [ ] only semantic HTML elements present
-* [ ] elements in a logic structure independent of styling and positioning
+* [x] only semantic HTML elements present
+* [x] elements in a logic structure independent of styling and positioning
 * [x] alt attributes on all relevent images
-* [ ] heading tags in sequential order
+* [x] heading tags in sequential order
 * [x] consice descriptive title
 
 	__*Plus*__
 * Technical Acceptance
 	* [x] all links function correctly
-	* [ ] CSS selectors follow semantic structure
-	* [ ] CSS file is properly commented
+	* [x] CSS selectors follow semantic structure
+	* [x] CSS file is properly commented
 * Deployment
-	* [ ] application deployed at live URL
-	* [ ] loads with no errors
-	* [ ] GitHub Repo URL submitted
-	* [ ] GitHub Repo contains application code
+	* [x] application deployed at live URL
+	* [x] loads with no errors
+	* [x] GitHub Repo URL submitted
+	* [x] GitHub Repo contains application code
 * Application Quality
-	* [ ] application resembles screenshot (below)
+	* [x] application resembles screenshot (below)
 * Repository Quality
-	* [ ] unique name
-	* [ ] repository follows best practices for file structure and naming
-	* [ ] best practices for class/id naming conventions, indentation, comments, etc.
-	* [ ] multiple commits with quality messages
-	* [ ] Quality README file
+	* [x] unique name
+	* [x] repository follows best practices for file structure and naming
+	* [x] best practices for class/id naming conventions, indentation, comments, etc.
+	* [x] multiple commits with quality messages
+	* [x] Quality README file
 
 
 ## Administrative Changes
