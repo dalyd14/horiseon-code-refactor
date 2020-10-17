@@ -42,7 +42,10 @@ landing page code and refactor them for accessibility purposes.
 2. Added a link on the Horiseon logo to go "back" to the landing page. Also added an id for the Search Engine Optimization Section. All 4 links work correctly as of now.
 3. Changed the divs with classes of "header" and "footer" to actual header and footer tags. I also made edits in the CSS file to reflect this change (deleted the preceding .). This helps the browser read the page more effectively.
 4. Changed the three major div tags to section tags. Section tags help combine elements that contribute to a similar theme.
-5. Added altattribute on all 7 pictures (the hero alt attribute can be found in the title attribute in the HTML). The 3 icons in the benefits section are not relevent, so they were given empty alt attributes so the browser ignores them
+5. Added altattribute on all 7 pictures (the hero alt attribute can be found in the title attribute in the HTML). The 3 icons in the benefits section are not relevent, so they were given empty alt attributes so the browser ignores them.
+6. Reorganized CSS file so the styles that apply to similar sections are grouped together and in order of importance and how they are displayed in the html
+7. Changed some of the class names in the content section do they were more general. This allowed me to apply the same classes to multiple elements and remove redundancies
+8. I was able to repeat step 7 for the benefits section as well
 
 
 ## Mock-Up Screenshot
