@@ -11,11 +11,11 @@ landing page code and refactor them for accessibility purposes.
 * [ ] elements in a logic structure independent of styling and positioning
 * [ ] alt attributes on all relevent images
 * [ ] heading tags in sequential order
-* [x] consice descriptive title  -  *Changed the title from website to the company's name, Horiseon*
+* [x] consice descriptive title
 
 	__*Plus*__
 * Technical Acceptance
-	* [x] all links function correctly  -  *Added a link on the Horiseon logo to go "back" to the landing page. Also added an id for the Search Engine Optimization Section. All 4 links work correctly as of now.*
+	* [x] all links function correctly
 	* [ ] CSS selectors follow semantic structure
 	* [ ] CSS file is properly commented
 * Deployment
@@ -35,9 +35,13 @@ landing page code and refactor them for accessibility purposes.
 
 ## Administrative Changes
 1. Renamed repository name to "horiseon-code-refactor"
-1. Changed file structure from having "Develop" as a parent folder to having the index.html and Assets folder in the main branch. I did this so GitHub Pages can access to index.html file in the main branch.
+2. Changed file structure from having "Develop" as a parent folder to having the index.html and Assets folder in the main branch. I did this so GitHub Pages can access to index.html file in the main branch.
 
 ## Physical Changes
+1. Changed the title from website to the company's name, Horiseon.
+2. Added a link on the Horiseon logo to go "back" to the landing page. Also added an id for the Search Engine Optimization Section. All 4 links work correctly as of now.
+3. Changed the divs with classes of "header" and "footer" to actual header and footer tags. I also made edits in the CSS file to reflect this change (deleted the preceding .). This helps the browser read the page more effectively.
+4. Changed the three major div tags to section tags. Section tags help combine elements that contribute to a similar theme.
 
 
 
